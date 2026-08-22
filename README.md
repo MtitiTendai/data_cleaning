@@ -1,6 +1,6 @@
 <h1 align="center">Life Expectancy Data Preprocessing and Cleaning</h1>
 
-
+<b>A data preprocessing and cleaning project using Python</b>
 ## The following are very crucial steps for every data scientist/ machine learning engineer to do before developing a machine learning model.
 
 
