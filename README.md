@@ -38,3 +38,11 @@ Involves transforming numerical data to a common scale so that variables with di
 Step 9 - Encoding of data
 
 Involves converting categorical or text-based data into numerical values so that it can be processed by machine learning algorithms.
+
+
+
+<h1 align="center">Life Expectancy Data Preprocessing and Cleaning</h1>
+
+<p align="center">
+  <b>A data preprocessing and cleaning project using Python</b>
+</p>
