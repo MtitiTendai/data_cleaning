@@ -1,12 +1,12 @@
 <h1 align="center">Life Expectancy Data Preprocessing and Cleaning</h1>
 
-<b>A data preprocessing and cleaning project using Python</b>
+
 ## The following are very crucial steps for every data scientist/ machine learning engineer to do before developing a machine learning model.
 
 
 <b> Step 1 - Import necessary libraries </b>
 
-Involves importing the Python libraries required for data analysis, preprocessing, visualisation, and other operations performed during the project.
+Involves importing the Python libraries required for data analysis,<br> preprocessing, visualisation, and other operations performed during <br> the project.
 
 Step 2 - Load and read the dataset
 
